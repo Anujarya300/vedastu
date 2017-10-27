@@ -1,0 +1,11 @@
+﻿
+.top-buffer {
+    margin-top: 15%;
+}
+
+@media (min-width: 1200px) {
+  .container {
+    width: 1180px;
+  }
+}
+
